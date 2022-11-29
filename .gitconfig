@@ -1,0 +1,11 @@
+[user]
+	name = abdelilahBouaiss
+	email = bouaiss.abdelilah@etu.uae.ac.ma
+	user = abdelilahBouaiss
+[safe]
+	directory = /var/www/html/wpress
+	directory = /var/www/html/wpress
+	directory = /var/www/html/wpress/info_news
+	directory = /var/www/html/wpress/news_check
+	directory = /var/www/html/wpress/news_check
+	directory = /var/www/html/wpress/news_check
